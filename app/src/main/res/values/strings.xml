@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExampleOfMultiSelectionChoices</string>
+    <string-array name="item_list">
+        <item>Ram</item>
+        <item>Vikas</item>
+        <item>Faisal</item>
+        <item>Ashish</item>
+        <item>Kalpana</item>
+        <item>Suman</item>
+        <item>Arsha</item>
+        <item>Surbhi</item>
+        <item>chetna</item>
+    </string-array>
+</resources>
